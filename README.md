@@ -9,7 +9,7 @@ Node: 22.17.1
 Package Manager: npm 11.5.2
 ```
 
-## Dummy Login User
+## User Dummy for Login
 
 ```bash
 username: james.wilson
